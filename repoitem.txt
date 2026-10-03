@@ -1,1 +1,0 @@
-name: "example", versionCode: "1", owner: "Alexsaha", Info: "A example for", DLink: "https://www.example.com/bpp.zip", required: "gunmu", end
